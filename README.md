@@ -15,6 +15,10 @@ This repository contains an advanced search component implemented in React, acco
 - **TailwindCSS**: CSS framework for quick and efficient design.
 - **React Hooks**: Usage of `useState` and `useEffect` for state management and side effects.
 
+## Demo Live
+
+Check out teh live demo [here](https://search-pagination-js.netlify.app/)
+
 ## Installation and Usage
 
 1. Clone the repository:
